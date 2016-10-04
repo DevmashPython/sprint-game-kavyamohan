@@ -48,3 +48,9 @@ time_elasped=time.time()-s_time
 
 print"\ncongrats you hav finished" 
 print "\nthe time taken %s"%str(time_elasped)
+
+''' 
+1. Mention controls for the game before the game is started!
+ex. Press D to move right
+2. The game should be lost, if wrong key is pressed!
+'''
